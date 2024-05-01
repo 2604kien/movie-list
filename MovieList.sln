@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieList.Server", "MovieList.Server\MovieList.Server.csproj", "{0F373273-F3CE-4037-B3ED-BD34B4119FED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovieList.Server", "MovieList.Server\MovieList.Server.csproj", "{0F373273-F3CE-4037-B3ED-BD34B4119FED}"
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "movielist.client", "movielist.client\movielist.client.esproj", "{6D6F385A-FED1-4D3C-9BA2-528FDE7AF4CC}"
 EndProject
